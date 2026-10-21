@@ -43,11 +43,11 @@
 
 ## GitHub Pages
 
-倉庫 Pages 用 **main 分支、根目錄 `/`**。課堂網址：
+課堂網址（合併入 `main` 之後）：
 
 https://ykleung2025.github.io/ai-inquiry-assistant/
 
-頁面要等呢次改動合併入 `main` 之後，先會喺上面個網址出現。合併前可以喺本機預覽。
+請喺倉庫 **Settings → Pages** 揀 **Deploy from a branch**，分支 `main`，資料夾 **`/ (root)`**，然後 Save。呢個代理嘅權限開唔到 Pages（API 403）。設定儲存並合併呢次改動之後，上面個網址就會顯示小工具。合併前可以喺本機預覽。
 
 ## 檔案（放喺 repo 根目錄）
 
